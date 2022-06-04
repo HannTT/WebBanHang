@@ -1,0 +1,6 @@
+Django
+Pillow
+six
+django-countries
+stripe
+stripe3
